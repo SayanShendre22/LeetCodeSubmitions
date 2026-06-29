@@ -3,11 +3,8 @@ class Solution {
         int res = 0;
 
         for (String str : patterns) {
-            for (int i = 0; i < word.length(); i++) {
-                if (word.startsWith(str, i)) {
-                    res++;
-                    break;
-                }
+           if(word.contains(str)){
+                res++;
             }
         }
 
