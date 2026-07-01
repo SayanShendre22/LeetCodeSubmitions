@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0221-maximal-square) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -115,5 +116,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0221-maximal-square) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
