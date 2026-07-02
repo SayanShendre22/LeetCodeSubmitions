@@ -21,8 +21,8 @@ class Solution {
             int i = cur[1];
             int j = cur[2];
 
-            // if (cost != dist[i][j])
-            //     continue;
+            if (cost != dist[i][j])
+                continue;
 
             if (i == m - 1 && j == n - 1)
                 return cost < health;
