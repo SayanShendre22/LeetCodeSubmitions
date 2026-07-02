@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0221-maximal-square) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -131,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0221-maximal-square) |
+| [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
