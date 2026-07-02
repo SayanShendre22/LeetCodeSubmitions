@@ -8,21 +8,17 @@ class Solution {
         for (int[] row : dist)
             Arrays.fill(row, Integer.MAX_VALUE);
 
-        PriorityQueue<int[]> pq = new PriorityQueue<>(
-                (a, b) -> a[0] - b[0]);
+        Deque<int[]> dq = new LinkedList<>();
 
-        pq.offer(new int[] { grid.get(0).get(0), 0, 0 });
+        dq.offer(new int[] { grid.get(0).get(0), 0, 0 });
         dist[0][0] = grid.get(0).get(0);
 
-        while (!pq.isEmpty()) {
+        while (!dq.isEmpty()) {
 
-            int cur[] = pq.poll();
+            int cur[] = dq.poll();
             int cost = cur[0];
             int i = cur[1];
             int j = cur[2];
-
-            if (cost != dist[i][j])
-                continue;
 
             if (i == m - 1 && j == n - 1)
                 return cost < health;
@@ -44,11 +40,19 @@ class Solution {
                 if (dist[ni][nj] > newCost) {
                     dist[ni][nj] = newCost;
 
-                    pq.offer(new int[] {
-                            newCost,
-                            ni,
-                            nj
-                    });
+                    if (grid.get(ni).get(nj) == 0) {
+                        dq.offerFirst(new int[] {
+                                newCost,
+                                ni,
+                                nj
+                        });
+                    } else {
+                        dq.offerLast(new int[] {
+                                newCost,
+                                ni,
+                                nj
+                        });
+                    }
 
                 }
             }
