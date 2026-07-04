@@ -1,26 +1,18 @@
 class Solution {
     public int minReorder(int n, int[][] connections) {
-
-        List<Set<Integer>> adjList = new ArrayList<>();
-        List<Set<Integer>> newAdjList = new ArrayList<>();
-
+        List<List<Integer>> newAdjList = new ArrayList<>();
         boolean[] vis = new boolean[n];
 
         for (int i = 0; i < n; i++) {
-            adjList.add(new HashSet<>());
-            newAdjList.add(new HashSet<>());
+            newAdjList.add(new ArrayList<>());
         }
 
         for (int[] road : connections) {
             int a = road[0];
             int b = road[1];
-
-            // original Adj-list
-            adjList.get(a).add(b);
-
             // two way Adj-List
             newAdjList.get(a).add(b);
-            newAdjList.get(b).add(a);
+            newAdjList.get(b).add(-a);
         }
 
         Queue<Integer> q = new LinkedList<>();
@@ -29,19 +21,17 @@ class Solution {
 
         while (!q.isEmpty()) {
             int cur = q.poll();
-            vis[cur] = true;
+            vis[Math.abs(cur)] = true;
 
-            for (int nb : newAdjList.get(cur)) {
+            for (int nb : newAdjList.get(Math.abs(cur))) {
 
-                if (vis[nb])
+                if (vis[Math.abs(nb)])
                     continue;
 
-                if (!adjList.get(nb).contains(cur)) {
-                    count++;
-                }
+                count += nb > 0 ? 1 : 0;
+
                 q.add(nb);
             }
-
         }
 
         return count;
