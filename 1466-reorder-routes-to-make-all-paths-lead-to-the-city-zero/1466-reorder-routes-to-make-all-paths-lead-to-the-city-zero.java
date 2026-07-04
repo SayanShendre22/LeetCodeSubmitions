@@ -1,39 +1,50 @@
 class Solution {
+
+    int count = 0;
+
     public int minReorder(int n, int[][] connections) {
-        List<List<Integer>> newAdjList = new ArrayList<>();
-        boolean[] vis = new boolean[n];
+
+        List<List<Integer>> adj = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
-            newAdjList.add(new ArrayList<>());
+            adj.add(new ArrayList<>());
         }
 
-        for (int[] road : connections) {
-            int a = road[0];
-            int b = road[1];
-            // two way Adj-List
-            newAdjList.get(a).add(b);
-            newAdjList.get(b).add(-a);
+        for (int[] edge : connections) {
+
+            int u = edge[0];
+            int v = edge[1];
+
+            // original direction
+            adj.get(u).add(v);
+
+            // reverse direction (mark with negative)
+            adj.get(v).add(-u);
         }
 
-        Queue<Integer> q = new LinkedList<>();
-        q.offer(0);
-        int count = 0;
+        boolean[] vis = new boolean[n];
 
-        while (!q.isEmpty()) {
-            int cur = q.poll();
-            vis[Math.abs(cur)] = true;
-
-            for (int nb : newAdjList.get(Math.abs(cur))) {
-
-                if (vis[Math.abs(nb)])
-                    continue;
-
-                count += nb > 0 ? 1 : 0;
-
-                q.add(nb);
-            }
-        }
+        dfs(0, adj, vis);
 
         return count;
+    }
+
+    private void dfs(int node, List<List<Integer>> adj, boolean[] vis) {
+
+        vis[node] = true;
+
+        for (int next : adj.get(node)) {
+
+            int actual = Math.abs(next);
+
+            if (vis[actual])
+                continue;
+
+            // original edge, needs reversal
+            if (next >= 0)
+                count++;
+
+            dfs(actual, adj, vis);
+        }
     }
 }
