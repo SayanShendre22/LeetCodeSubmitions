@@ -1,39 +1,43 @@
 class Solution {
+    int[] parent;
+    int[] minV;
+
     public int minScore(int n, int[][] roads) {
-        List<List<int[]>> adj = new ArrayList<>();
+        parent = new int[n + 1];
+        minV = new int[n + 1];
+
         for (int i = 0; i <= n; i++) {
-            adj.add(new ArrayList<>());
+            parent[i] = i;
+            minV[i] = Integer.MAX_VALUE;
         }
 
-        for (int[] road : roads) {
-            int a = road[0];
-            int b = road[1];
-            int w = road[2];
+        for (int[] r : roads) {
+            int a = r[0];
+            int b = r[1];
+            int w = r[2];
 
-            adj.get(a).add(new int[] { b, w });
-            adj.get(b).add(new int[] { a, w });
+            union(a, b, w);
         }
 
-        boolean[] vis = new boolean[n + 1];
-        Queue<Integer> q = new LinkedList<>();
-        q.offer(1);
-        vis[1] = true;
+        return minV[findP(1)];
+    }
 
-        int res = Integer.MAX_VALUE;
-        while (!q.isEmpty()) {
-            int node = q.poll();
+    public void union(int a, int b, int w) {
+        int pa = findP(a);
+        int pb = findP(b);
 
-            for (int[] nb : adj.get(node)) {
-                int next = nb[0];
-                int wt = nb[1];
-                res = Math.min(res, wt);
-
-                if (!vis[next]) {
-                    vis[next] = true;
-                    q.add(next);
-                }
-            }
+        if (pa != pb) {
+            parent[pb] = pa;
+            minV[pa] = Math.min(minV[pa], Math.min(minV[pb], w));
+        } else {
+            minV[pa] = Math.min(minV[pa], w);
         }
-        return res;
+    }
+
+    public int findP(int a) {
+        if (parent[a] == a) {
+            return a;
+        }
+        return parent[a] = findP(parent[a]);
     }
 }
