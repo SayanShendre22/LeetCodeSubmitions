@@ -103,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0743-network-delay-time) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0743-network-delay-time) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0743-network-delay-time) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3620-network-recovery-pathways) |
