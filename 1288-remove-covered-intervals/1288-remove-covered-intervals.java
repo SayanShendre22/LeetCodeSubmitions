@@ -3,10 +3,10 @@ class Solution {
         int n = itv.length;
         boolean scan[] = new boolean[n];
 
-        Arrays.sort(itv, (a, b) -> {
-            if(a[0]!=b[0]) return a[0] - b[0];
-            return b[1]-a[1];
-        });
+        // Arrays.sort(itv, (a, b) -> {
+        //     if(a[0]!=b[0]) return a[0] - b[0];
+        //     return b[1]-a[1];
+        // });
 
         for (int i = 0; i < n - 1; i++) {
             if (scan[i]) {
@@ -22,8 +22,13 @@ class Solution {
                 int d = itv[j][1];
 
                 if (a <= c && b >= d) {
-                    // System.out.println(i + " " + j);
+
                     scan[j] = true;
+                }
+
+                if (c <= a && d >= b) {
+
+                    scan[i] = true;
                 }
             }
         }
@@ -34,6 +39,6 @@ class Solution {
                 res++;
         }
 
-        return n-res;
+        return n - res;
     }
 }
