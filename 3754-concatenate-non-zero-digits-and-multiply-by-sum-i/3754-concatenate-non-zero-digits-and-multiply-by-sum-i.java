@@ -1,18 +1,15 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        if(n==0) return 0;
+        if (n == 0)
+            return 0;
         long sum = 0;
-        StringBuilder sb = new StringBuilder();
-
-        while (n > 0) {
-            int temp = n % 10;
-            if (temp > 0) {
-                sum += temp;
-                sb.append(temp);
+        long ans = 0;
+        for (char c : String.valueOf(n).toCharArray()) {
+            if (c != '0') {
+                sum += c - '0';
+                ans = ans * 10 + c - '0';
             }
-            n=n/10;
         }
-        long res = Integer.parseInt(sb.reverse().toString()) *sum;
-        return res;
+        return ans * sum;
     }
 }
