@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0012-integer-to-roman) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0621-task-scheduler) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0012-integer-to-roman) |
 | [0523-continuous-subarray-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0523-continuous-subarray-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0012-integer-to-roman) |
 | [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
