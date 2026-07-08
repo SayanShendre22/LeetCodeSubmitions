@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0031-next-permutation) |
 | [0221-maximal-square](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0221-maximal-square) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0031-next-permutation) |
 | [0658-find-k-closest-elements](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0658-find-k-closest-elements) |
 ## Counting
 |  |
