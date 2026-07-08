@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0221-maximal-square) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
+| [0496-next-greater-element-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0658-find-k-closest-elements) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0012-integer-to-roman) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0621-task-scheduler) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -207,4 +209,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
