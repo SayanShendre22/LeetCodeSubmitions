@@ -1,11 +1,13 @@
 class Solution {
     int parent[];
-
+    int rank[];
     public boolean[] pathExistenceQueries(int n, int[] nums, int maxDiff, int[][] queries) {
         parent = new int[n];
+        rank = new int[n];
 
         for (int i = 0; i < n; i++) {
             parent[i] = i;
+            rank[i]=1;
         }
 
         for (int i = 0; i < n - 1; i++) {
@@ -39,7 +41,13 @@ class Solution {
         int pb = find(b);
 
         if (pa != pb) {
-            parent[pb] = pa;
+            if(rank[pa]>rank[pb]){
+                parent[pb]= pa;
+                rank[pa]++;
+            }else{
+                parent[pa]=pb;
+                rank[pb]++;
+            }
         }
     }
 }
