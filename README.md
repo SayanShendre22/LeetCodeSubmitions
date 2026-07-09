@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1301-number-of-paths-with-max-score) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0621-task-scheduler) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0221-maximal-square) |
 | [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1301-number-of-paths-with-max-score) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [3620-network-recovery-pathways](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
