@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0621-task-scheduler) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -172,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0658-find-k-closest-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
@@ -194,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -209,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0031-next-permutation) |
 | [0658-find-k-closest-elements](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0658-find-k-closest-elements) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
 | ------- |
