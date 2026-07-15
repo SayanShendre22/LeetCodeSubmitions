@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
