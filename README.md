@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
@@ -266,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
