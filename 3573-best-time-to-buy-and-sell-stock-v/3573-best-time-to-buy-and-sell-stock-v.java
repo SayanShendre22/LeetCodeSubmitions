@@ -61,7 +61,7 @@ class Solution {
 
     public long maximumProfit(int[] prices, int k) {
         n = prices.length;
-        dp = new long[n+1][4][k+1];
+        dp = new long[n + 1][3][k + 1];
 
         for (long[][] a : dp) {
             for (long[] b : a) {
@@ -69,6 +69,46 @@ class Solution {
             }
         }
 
-        return solve(prices, 0, 0, k);
+        // resursion + memo
+        // return solve(prices, 0, 0, k);
+
+        // buttom up
+
+        long NEG = Long.MIN_VALUE / 4;
+
+        for (int t = 0; t <= k; t++) {
+            dp[n][0][t] = 0;
+            dp[n][1][t] = NEG;
+            dp[n][2][t] = NEG;
+        }
+
+        for (int i = n - 1; i >= 0; i--) {
+
+            dp[i][0][0] = 0;
+            dp[i][1][0] = NEG;
+            dp[i][2][0] = NEG;
+
+            for (int j = 1; j <= k; j++) {
+
+                // No open transaction
+                dp[i][0][j] = Math.max(
+                        dp[i + 1][0][j],
+                        Math.max(
+                                -prices[i] + dp[i + 1][1][j],
+                                prices[i] + dp[i + 1][2][j]));
+
+                // Holding Long
+                dp[i][1][j] = Math.max(
+                        dp[i + 1][1][j],
+                        prices[i] + dp[i + 1][0][j - 1]);
+
+                // Holding Short
+                dp[i][2][j] = Math.max(
+                        dp[i + 1][2][j],
+                        -prices[i] + dp[i + 1][0][j - 1]);
+            }
+        }
+
+        return dp[0][0][k];
     }
 }
