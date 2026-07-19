@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0621-task-scheduler) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0020-valid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -265,10 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
 | ------- |
