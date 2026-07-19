@@ -1,6 +1,6 @@
 class Solution {
 
-    Map<String, Integer> map = new HashMap<>();
+    // Map<String, Integer> map = new HashMap<>();
 
     public int maxLength(List<String> arr) {
         int n = arr.size();
@@ -16,8 +16,8 @@ class Solution {
             return sb.length();
         }
 
-        if (map.containsKey(sb.toString()))
-            return map.get(sb.toString());
+        // if (map.containsKey(sb.toString()))
+        //     return map.get(sb.toString());
 
         // Exclude
         int exclude = solve(str, idx + 1, sb, n);
@@ -34,7 +34,7 @@ class Solution {
             sb.setLength(len); // Backtrack
         }
 
-        map.put(sb.toString(), Math.max(include, exclude));
+        // map.put(sb.toString(), Math.max(include, exclude));
 
         return Math.max(include, exclude);
     }
