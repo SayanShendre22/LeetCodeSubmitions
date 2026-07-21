@@ -9,17 +9,28 @@ class Solution {
 
         dp = new int[n + 1];
 
-        Arrays.fill(dp, -1);
-
         for (int i = 0; i < n; i++) {
             jobs[i][0] = startTime[i];
             jobs[i][1] = endTime[i];
             jobs[i][2] = profit[i];
         }
-
         Arrays.sort(jobs, (a, b) -> a[0] - b[0]);
 
-        return helper(0, jobs);
+        for (int i = n - 1; i >= 0; i--) {
+
+            int next = BS(jobs, i + 1, jobs[i][1]);
+
+            int take = jobs[i][2];
+
+            if (next != -1)
+                take += dp[next];
+
+            int skip = dp[i + 1];
+
+            dp[i] = Math.max(take, skip);
+        }
+
+        return dp[0];
     }
 
     public int helper(int idx, int[][] jobs) {
