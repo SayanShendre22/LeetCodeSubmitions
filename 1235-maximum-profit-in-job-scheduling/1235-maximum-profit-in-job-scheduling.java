@@ -55,7 +55,7 @@ class Solution {
         int ans = -1;
 
         while (l <= e) {
-            int mid = (l + e) / 2;
+            int mid = l + (e - l) / 2;
 
             if (jobs[mid][0] >= tg) {
                 ans = mid;
