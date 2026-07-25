@@ -1,34 +1,31 @@
 class Solution {
-    int dp[][];
+    int dp[];
 
     public int maxProfit(int[] prices) {
-        dp = new int[prices.length + 1][2];
-        for (int[] a : dp) {
-            Arrays.fill(a, -1);
-        }
-        return helper(prices, 0, 0);
-    }
+        int n = prices.length;
 
-    public int helper(int[] p, int idx, int buy) {
-        if (idx >= p.length) {
+        if (n == 0 || n == 1)
             return 0;
+
+        dp = new int[n + 1];
+
+        dp[0] = 0;
+        dp[1] = Math.max(0, prices[1] - prices[0]);
+
+        for (int i = 2; i < n; i++) {
+
+            dp[i] = dp[i - 1]; // skip selling on day i
+
+            for (int j = 0; j < i; j++) {
+
+                int prev = j >= 2 ? dp[j - 2] : 0;
+
+                dp[i] = Math.max(
+                        dp[i], // skip;
+                        prices[i] - prices[j] + prev);
+            }
         }
 
-        if (dp[idx][buy] != -1) {
-            return dp[idx][buy];
-        }
-
-        // skip 
-        int skip = helper(p, idx + 1, buy);
-        // take
-        int take = 0;
-        if (buy == 0) {
-            take = -p[idx] + helper(p, idx + 1, 1);
-        } else {
-            take = p[idx] + helper(p, idx + 2, 0);
-        }
-
-        return dp[idx][buy] = Math.max(take, skip);
-
+        return dp[n - 1];
     }
 }
