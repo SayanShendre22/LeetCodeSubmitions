@@ -16,7 +16,6 @@ class Solution {
                 g[i][j] = g[i][j] + Math.min(g[i][j - 1], g[i - 1][j]);
             }
         }
-
         return g[m - 1][n - 1];
     }
 }
