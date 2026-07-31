@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0020-valid-parentheses) |
+| [0087-scramble-string](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0087-scramble-string) |
 | [0316-remove-duplicate-letters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0316-remove-duplicate-letters) |
 | [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0087-scramble-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0221-maximal-square) |
