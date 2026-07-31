@@ -20,18 +20,18 @@ class Solution {
 
         int n = s1.length();
 
-        // int[] freq = new int[26];
-        // for (int i = 0; i < n; i++) {
-        //     freq[s1.charAt(i) - 'a']++;
-        //     freq[s2.charAt(i) - 'a']--;
-        // }
+        int[] freq = new int[26];
+        for (int i = 0; i < n; i++) {
+            freq[s1.charAt(i) - 'a']++;
+            freq[s2.charAt(i) - 'a']--;
+        }
 
-        // for (int x : freq) {
-        //     if (x != 0) {
-        //         map.put(key, false);
-        //         return false;
-        //     }
-        // }
+        for (int x : freq) {
+            if (x != 0) {
+                map.put(key, false);
+                return false;
+            }
+        }
 
         for (int i = 1; i < n; i++) {
 
