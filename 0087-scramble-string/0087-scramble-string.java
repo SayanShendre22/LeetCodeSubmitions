@@ -42,7 +42,7 @@ class Solution {
                     && solve(s1.substring(i), s2.substring(i));
 
             if (swap || notSwap) {
-                map.put(key, true);
+                // map.put(key, true);
                 return true;
             }
         }
