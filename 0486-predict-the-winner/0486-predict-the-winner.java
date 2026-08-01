@@ -8,7 +8,7 @@ class Solution {
             total += i;
         }
 
-        dp = new int[n + 1][n + 1];
+        dp = new int[22][22];
 
         for (int[] a : dp) {
             Arrays.fill(a, -1);
