@@ -18,6 +18,7 @@ class Solution {
                 dp[j] = Math.max(nums[i] - dp[j], nums[j] - dp[j - 1]);
             }
         }
+        
         return dp[n - 1] >= 0;
         // return solve(0, n - 1, nums) >= 0;
     }
