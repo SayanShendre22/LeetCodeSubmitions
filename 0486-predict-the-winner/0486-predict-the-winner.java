@@ -9,6 +9,9 @@ class Solution {
         //     Arrays.fill(a, -1);
         // }
 
+        if ((n & 1) == 0)
+            return true;
+
         for (int i = n - 1; i >= 0; i--) {
             dp[i] = nums[i];
             for (int j = i + 1; j < n; j++) {
