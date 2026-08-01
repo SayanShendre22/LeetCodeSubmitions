@@ -22,15 +22,15 @@ class Solution {
 
     public int solve(int i, int j, int[] nums) {
 
-        if (dp[i][i] != -1) {
-            return dp[i][j];
-        }
-
         if (i > j)
             return 0;
 
         if (i == j)
             return nums[i];
+
+        if (dp[i][j] != -1) {
+            return dp[i][j];
+        }
 
         int take_i = nums[i] + Math.min(solve(i + 2, j, nums), solve(i + 1, j - 1, nums));
 
