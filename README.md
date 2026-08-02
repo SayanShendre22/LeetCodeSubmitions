@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0087-scramble-string) |
 | [0316-remove-duplicate-letters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0316-remove-duplicate-letters) |
 | [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0516-longest-palindromic-subsequence) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1143-longest-common-subsequence) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0486-predict-the-winner) |
+| [0516-longest-palindromic-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0516-longest-palindromic-subsequence) |
 | [0790-domino-and-tromino-tiling](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0926-flip-string-to-monotone-increasing) |
