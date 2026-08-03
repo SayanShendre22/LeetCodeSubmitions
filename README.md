@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1402-reducing-dishes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1406-stone-game-iii) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0523-continuous-subarray-sum) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1301-number-of-paths-with-max-score) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1402-reducing-dishes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1406-stone-game-iii) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0070-climbing-stairs) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 ## Counting Sort
 |  |
 | ------- |
