@@ -4,23 +4,31 @@ class Solution {
 
     public String stoneGameIII(int[] s) {
         n = s.length;
-        dp = new int[n + 1];
+        // dp = new int[n + 1];
         // Arrays.fill(dp, -1);
 
         // int diff = solve(s, 0);
 
+        int a = 0, b = 0, c = 0;
+
         for (int i = n - 1; i >= 0; i--) {
-            dp[i] = s[i] - dp[i + 1];
+            int res = Integer.MIN_VALUE;
+
+            res = Math.max(res, s[i] - a);
 
             if (i + 1 < n) {
-                dp[i] = Math.max(dp[i], s[i] + s[i + 1] - dp[i + 2]);
+                res = Math.max(res, s[i] + s[i + 1] - b);
             }
             if (i + 2 < n) {
-                dp[i] = Math.max(dp[i], s[i] + s[i + 1] + s[i + 2] - dp[i + 3]);
+                res = Math.max(res, s[i] + s[i + 1] + s[i + 2] - c);
             }
+
+            c = b;
+            b = a;
+            a = res;
         }
 
-        int diff = dp[0];
+        int diff = a;
         if (diff > 0)
             return "Alice";
         else if (diff < 0)
