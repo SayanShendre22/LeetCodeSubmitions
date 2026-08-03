@@ -8,7 +8,7 @@ class Solution {
         n = pizza.length;
         m = pizza[0].length();
 
-        dp = new Integer[15][55][55];
+        dp = new Integer[11][51][51];
 
         int prefix[][] = new int[n + 1][m + 1];
 
