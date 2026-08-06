@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1406-stone-game-iii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1406-stone-game-iii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
