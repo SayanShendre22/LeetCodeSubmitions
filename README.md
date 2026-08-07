@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0064-minimum-path-sum) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0221-maximal-square) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0128-longest-consecutive-sequence) |
 | [0264-ugly-number-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0264-ugly-number-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0496-next-greater-element-i) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2812-find-the-safest-path-in-a-grid) |
