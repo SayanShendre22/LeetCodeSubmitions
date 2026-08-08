@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0031-next-permutation) |
 | [0658-find-k-closest-elements](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0658-find-k-closest-elements) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
