@@ -5,8 +5,25 @@ class Solution {
     public long mostPoints(int[][] questions) {
         n = questions.length;
         dp = new long[n + 1];
-        Arrays.fill(dp, -1);
-        return solve(questions, 0);
+
+        for (int i = n - 1; i >= 0; i--) {
+
+            int next = i + questions[i][1] + 1;
+            long take = questions[i][0];
+
+            if (next < n) {
+                take += dp[next];
+            }
+
+            long skip = dp[i + 1];
+
+            dp[i] = Math.max(take, skip);
+        }
+
+        return dp[0];
+
+        // Arrays.fill(dp, -1);
+        // return solve(questions, 0);
     }
 
     public long solve(int[][] q, int i) {
