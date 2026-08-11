@@ -7,10 +7,23 @@ class Solution {
         l1 = nums1.length;
         l2 = nums2.length;
         dp = new int[l1 + 1][l2 + 1];
-        for (int[] a : dp) {
-            Arrays.fill(a, -1);
+
+        for (int i = 1; i <= l1; i++) {
+            for (int j = 1; j <= l2; j++) {
+                if (nums1[i - 1] == nums2[j - 1]) {
+                    dp[i][j] = 1 + dp[i - 1][j - 1];
+                } else {
+                    dp[i][j] = Math.max(dp[i][j - 1], dp[i - 1][j]);
+                }
+            }
         }
-        return solve(nums1, nums2, 0, 0);
+
+        return dp[l1][l2];
+
+        // for (int[] a : dp) {
+        //     Arrays.fill(a, -1);
+        // }
+        // return solve(nums1, nums2, 0, 0);
     }
 
     public int solve(int[] n1, int[] n2, int i, int j) {
