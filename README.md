@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2140-solving-questions-with-brainpower) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1416-restore-the-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1416-restore-the-array) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -504,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1035-uncrossed-lines](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1035-uncrossed-lines) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
