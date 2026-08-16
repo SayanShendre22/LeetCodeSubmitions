@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2029-stone-game-ix) |
 | [2140-solving-questions-with-brainpower](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2140-solving-questions-with-brainpower) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1510-stone-game-iv) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1402-reducing-dishes) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0621-task-scheduler) |
+| [2029-stone-game-ix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2029-stone-game-ix) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -487,15 +492,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
