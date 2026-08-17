@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1406-stone-game-iii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1563-stone-game-v) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1799-maximize-score-after-n-operations](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1799-maximize-score-after-n-operations) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1563-stone-game-v) |
 | [1799-maximize-score-after-n-operations](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1799-maximize-score-after-n-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1563-stone-game-v) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1799-maximize-score-after-n-operations](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1799-maximize-score-after-n-operations) |
 | [2140-solving-questions-with-brainpower](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2140-solving-questions-with-brainpower) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2029-stone-game-ix) |
 ## Knapsack Problem
 |  |
