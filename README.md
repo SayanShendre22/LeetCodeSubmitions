@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1406-stone-game-iii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1563-stone-game-v) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1799-maximize-score-after-n-operations](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1799-maximize-score-after-n-operations) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1510-stone-game-iv) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1563-stone-game-v) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1799-maximize-score-after-n-operations](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1799-maximize-score-after-n-operations) |
