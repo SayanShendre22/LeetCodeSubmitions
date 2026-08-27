@@ -1,82 +1,56 @@
 class Solution {
     public String lexGreaterPermutation(String s, String target) {
-
-        int[] freq = new int[26];
+        int freq[] = new int[26];
 
         for (char c : s.toCharArray()) {
-            freq[c - 'a']++;
+            int idx = c - 'a';
+            freq[idx]++;
         }
 
-        for (int i = 0; i < target.length(); i++) {
-            int ch = target.charAt(i) - 'a';
+        int n = s.length();
+        int matched = 0;
 
-            if (freq[ch] > 0) {
-                freq[ch]--;
-                continue;
+        while (matched < n && freq[target.charAt(matched) - 'a'] > 0) {
+            freq[target.charAt(matched) - 'a']--;
+            matched++;
+        }
+
+        int start = matched < n ? matched : n - 1;
+
+        // if (matched == n) {
+        //     return "";
+        // }
+
+        for (int i = start; i >= 0; i--) {
+            if (i < matched) {
+                freq[target.charAt(i) - 'a']++;
             }
 
-            for (int j = i; j >= 0; j--) {
-
-                if (j < i) {
-                    freq[target.charAt(j) - 'a']++;
+            int bigger = -1;
+            for (int ch = target.charAt(i) - 'a' + 1; ch < 26; ch++) {
+                if (freq[ch] > 0) {
+                    bigger = ch;
+                    break;
                 }
+            }
 
-                int cur = target.charAt(j) - 'a';
+            if (bigger != -1) {
+                freq[bigger]--;
 
-                for (int c = cur + 1; c < 26; c++) {
+                StringBuilder answer = new StringBuilder(target.substring(0, i));
 
-                    if (freq[c] > 0) {
+                answer.append((char) ('a' + bigger));
 
-                        StringBuilder ans =
-                            new StringBuilder(target.substring(0, j));
-
-                        ans.append((char) ('a' + c));
-
-                        freq[c]--;
-
-                        for (int x = 0; x < 26; x++) {
-                            while (freq[x] > 0) {
-                                ans.append((char) ('a' + x));
-                                freq[x]--;
-                            }
-                        }
-
-                        return ans.toString();
+                for (int ch = 0; ch < 26; ch++) {
+                    while (freq[ch]-- > 0) {
+                        answer.append((char) ('a' + ch));
                     }
                 }
-            }
 
-            return "";
-        }
-
-        for (int j = target.length() - 1; j >= 0; j--) {
-
-            freq[target.charAt(j) - 'a']++;
-
-            int cur = target.charAt(j) - 'a';
-
-            for (int c = cur + 1; c < 26; c++) {
-
-                if (freq[c] > 0) {
-
-                    StringBuilder ans =
-                        new StringBuilder(target.substring(0, j));
-
-                    ans.append((char) ('a' + c));
-
-                    freq[c]--;
-
-                    for (int x = 0; x < 26; x++) {
-                        while (freq[x] > 0) {
-                            ans.append((char) ('a' + x));
-                            freq[x]--;
-                        }
-                    }
-
-                    return ans.toString();
-                }
+                return answer.toString();
             }
         }
+
         return "";
     }
 }
