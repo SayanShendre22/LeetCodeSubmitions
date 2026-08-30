@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0307-range-sum-query-mutable) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3477-fruits-into-baskets-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3477-fruits-into-baskets-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3477-fruits-into-baskets-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3477-fruits-into-baskets-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3477-fruits-into-baskets-ii) |
 ## Bitmask
 |  |
 | ------- |
