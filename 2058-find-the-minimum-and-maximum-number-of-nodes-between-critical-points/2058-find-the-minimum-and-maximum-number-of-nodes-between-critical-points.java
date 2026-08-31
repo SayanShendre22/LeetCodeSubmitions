@@ -41,7 +41,7 @@ class Solution {
         }
 
         if (lis.size() > 2) {
-            Collections.sort(lis);
+            // Collections.sort(lis);
             res[1] = Math.abs(lis.get(0) - lis.get(lis.size() - 1));
             int min = Integer.MAX_VALUE;
 
