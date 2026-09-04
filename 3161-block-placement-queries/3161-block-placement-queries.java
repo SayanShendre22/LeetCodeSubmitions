@@ -1,92 +1,79 @@
-// copied
-
 class Solution {
+    int[] seg;
+    int n = 50000;
 
-    private final int MAXX = 50000;
-    private int[] seg;
-
-    private void update(int node, int l, int r, int idx, int val) {
+    public void update(int i, int l, int r, int idx, int val) {
         if (l == r) {
-            seg[node] = val;
+            seg[i] = val;
             return;
         }
-
-        int mid = (l + r) / 2;
+        int mid = l + (r - l) / 2;
 
         if (idx <= mid)
-            update(2 * node, l, mid, idx, val);
+            update(2 * i, l, mid, idx, val);
         else
-            update(2 * node + 1, mid + 1, r, idx, val);
+            update(2 * i + 1, mid + 1, r, idx, val);
 
-        seg[node] = Math.max(seg[2 * node], seg[2 * node + 1]);
+        seg[i] = Math.max(seg[2 * i], seg[2 * i + 1]);
     }
 
-    private int query(int node, int l, int r, int ql, int qr) {
+    public int query(int i, int l, int r, int ql, int qr) {
         if (ql > r || qr < l)
             return 0;
 
         if (ql <= l && r <= qr)
-            return seg[node];
+            return seg[i];
 
-        int mid = (l + r) / 2;
+        int mid = l + (r - l) / 2;
 
-        return Math.max(
-                query(2 * node, l, mid, ql, qr),
-                query(2 * node + 1, mid + 1, r, ql, qr));
+        return Math.max(query(2 * i, l, mid, ql, qr), query(2 * i + 1, mid + 1, r, ql, qr));
     }
 
-    public List<Boolean> getResults(int[][] queries) {
+    public List<Boolean> getResults(int[][] que) {
+        seg = new int[4 * (n + 1)];
 
-        seg = new int[4 * (MAXX + 1)];
+        TreeSet<Integer> set = new TreeSet<>();
+        set.add(0);
 
-        TreeSet<Integer> obstacles = new TreeSet<>();
-        obstacles.add(0);
-
-        for (int[] q : queries) {
+        for (int[] q : que)
             if (q[0] == 1)
-                obstacles.add(q[1]);
+                set.add(q[1]);
+
+        List<Integer> obs = new ArrayList<>(set);
+
+        for (int i = 1; i < obs.size(); i++) {
+            int cur = obs.get(i), prev = obs.get(i - 1);
+            update(1, 0, n, cur, cur - prev);
         }
 
-        List<Integer> pos = new ArrayList<>(obstacles);
+        List<Boolean> res = new ArrayList<>();
 
-        for (int i = 1; i < pos.size(); i++) {
-            update(1, 0, MAXX, pos.get(i), pos.get(i) - pos.get(i - 1));
-        }
+        for (int i = que.length - 1; i >= 0; i--) {
+            if (que[i][0] == 2) {
 
-        List<Boolean> ans = new ArrayList<>();
+                int x = que[i][1], len = que[i][2];
 
-        for (int i = queries.length - 1; i >= 0; i--) {
+                Integer prev = set.floor(x);
 
-            if (queries[i][0] == 2) {
+                int best = query(1, 0, n, 0, prev);
+                best = Math.max(best, x - prev);
 
-                int x = queries[i][1];
-                int sz = queries[i][2];
-
-                int prevObstacle = obstacles.lower(x);
-
-                int best = query(1, 0, MAXX, 0, prevObstacle);
-                best = Math.max(best, x - prevObstacle);
-
-                ans.add(best >= sz);
+                res.add(best >= len);
             } else {
+                int ob = que[i][1];
 
-                int x = queries[i][1];
+                Integer prev = set.lower(ob);
+                Integer higher = set.higher(ob);
 
-                Integer leftPos = obstacles.lower(x);
+                update(1, 0, n, ob, 0);
 
-                update(1, 0, MAXX, x, 0);
+                if (higher != null)
+                    update(1, 0, n, higher, higher - prev);
 
-                Integer rightPos = obstacles.higher(x);
-
-                if (rightPos != null) {
-                    update(1, 0, MAXX, rightPos, rightPos - leftPos);
-                }
-
-                obstacles.remove(x);
+                set.remove(ob);
             }
         }
-
-        Collections.reverse(ans);
-        return ans;
+        Collections.reverse(res);
+        return res;
     }
 }
