@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3161-block-placement-queries](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0307-range-sum-query-mutable) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3161-block-placement-queries](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3479-fruits-into-baskets-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3161-block-placement-queries](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3479-fruits-into-baskets-iii) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0307-range-sum-query-mutable) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3161-block-placement-queries](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3161-block-placement-queries) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -615,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3161-block-placement-queries](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3479-fruits-into-baskets-iii) |
 ## Bitmask
