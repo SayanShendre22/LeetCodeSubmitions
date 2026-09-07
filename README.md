@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0516-longest-palindromic-subsequence) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0940-distinct-subsequences-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0879-profitable-schemes) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0983-minimum-cost-for-tickets) |
 | [1035-uncrossed-lines](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1035-uncrossed-lines) |
 | [1140-stone-game-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1140-stone-game-ii) |
