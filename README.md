@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2140-solving-questions-with-brainpower) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0743-network-delay-time) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3310-remove-methods-from-project) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0743-network-delay-time) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1301-number-of-paths-with-max-score) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -475,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1872-stone-game-viii) |
 | [2140-solving-questions-with-brainpower](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2466-count-ways-to-build-good-strings](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2466-count-ways-to-build-good-strings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -485,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
@@ -554,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0070-climbing-stairs) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
