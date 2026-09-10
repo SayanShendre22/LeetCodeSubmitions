@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0658-find-k-closest-elements) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0879-profitable-schemes) |
 | [0931-minimum-falling-path-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0931-minimum-falling-path-sum) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0316-remove-duplicate-letters) |
 | [0621-task-scheduler](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1386-cinema-seat-allocation](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1386-cinema-seat-allocation) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0516-longest-palindromic-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0879-profitable-schemes) |
