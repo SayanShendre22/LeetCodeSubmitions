@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0743-network-delay-time) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2685-count-the-number-of-complete-components) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Design
 |  |
@@ -648,4 +650,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
