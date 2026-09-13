@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0658-find-k-closest-elements) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0835-image-overlap](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0879-profitable-schemes) |
 | [0931-minimum-falling-path-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0931-minimum-falling-path-sum) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0221-maximal-square) |
+| [0835-image-overlap](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1260-shift-2d-grid) |
