@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0022-generate-parentheses) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1799-maximize-score-after-n-operations](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1799-maximize-score-after-n-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0022-generate-parentheses) |
 | [0087-scramble-string](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0316-remove-duplicate-letters) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0070-climbing-stairs) |
@@ -702,5 +705,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
