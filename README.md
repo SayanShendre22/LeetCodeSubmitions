@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1386-cinema-seat-allocation](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1386-cinema-seat-allocation) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0940-distinct-subsequences-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -718,5 +721,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
