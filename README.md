@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0301-remove-invalid-parentheses) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1799-maximize-score-after-n-operations](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1799-maximize-score-after-n-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0032-longest-valid-parentheses) |
 | [0087-scramble-string](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0316-remove-duplicate-letters) |
 | [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0516-longest-palindromic-subsequence) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0301-remove-invalid-parentheses) |
 | [0743-network-delay-time](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0743-network-delay-time) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
