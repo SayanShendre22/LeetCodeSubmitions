@@ -7,7 +7,11 @@ class Solution {
             for (int j = 0; j < i; j++) {
                 int diff = nums[j] - nums[i] + 500;
 
-                dp[i][diff] = dp[j][diff] > 0 ? dp[j][diff] + 1 : 2;
+                if (dp[j][diff] > 0) {
+                    dp[i][diff] = dp[j][diff] + 1;
+                } else {
+                    dp[i][diff] = 2;
+                }
 
                 max = Math.max(max, dp[i][diff]);
             }
