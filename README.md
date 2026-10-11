@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0879-profitable-schemes) |
 | [0931-minimum-falling-path-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0931-minimum-falling-path-sum) |
+| [0956-tallest-billboard](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0956-tallest-billboard) |
 | [0983-minimum-cost-for-tickets](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1035-uncrossed-lines) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0940-distinct-subsequences-ii) |
+| [0956-tallest-billboard](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0956-tallest-billboard) |
 | [0983-minimum-cost-for-tickets](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1035-uncrossed-lines) |
@@ -661,10 +663,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0879-profitable-schemes) |
+| [0956-tallest-billboard](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0956-tallest-billboard) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0879-profitable-schemes) |
+| [0956-tallest-billboard](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0956-tallest-billboard) |
 ## Minimax
 |  |
 | ------- |
@@ -744,4 +748,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Meet in the Middle
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0956-tallest-billboard) |
 <!---LeetCode Topics End-->
