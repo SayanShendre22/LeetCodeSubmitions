@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0496-next-greater-element-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0279-perfect-squares) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0628-maximum-product-of-three-numbers) |
