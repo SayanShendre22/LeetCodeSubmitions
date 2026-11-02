@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0496-next-greater-element-i) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0018-4sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0658-find-k-closest-elements) |
