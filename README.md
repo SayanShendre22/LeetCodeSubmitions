@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-rank-transform-of-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1331-rank-transform-of-an-array) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1406-stone-game-iii) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1187-make-array-strictly-increasing](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0031-next-permutation) |
 | [0658-find-k-closest-elements](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0658-find-k-closest-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
