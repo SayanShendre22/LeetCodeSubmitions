@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1563-stone-game-v) |
+| [1575-count-all-possible-routes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1575-count-all-possible-routes) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1799-maximize-score-after-n-operations](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1799-maximize-score-after-n-operations) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1563-stone-game-v) |
+| [1575-count-all-possible-routes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1575-count-all-possible-routes) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1799-maximize-score-after-n-operations](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1799-maximize-score-after-n-operations) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0070-climbing-stairs) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1575-count-all-possible-routes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1575-count-all-possible-routes) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Counting Sort
 |  |
