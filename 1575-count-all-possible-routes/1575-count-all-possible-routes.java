@@ -2,14 +2,34 @@ class Solution {
     int[][] dp;
     int MOD = 1_000_000_007;
 
-    public int countRoutes(int[] locations, int start, int finish, int fuel) {
-        dp = new int[locations.length][fuel + 1];
+    public int countRoutes(int[] locations, int start, int tg, int fuel) {
+        int n = locations.length;
+        int[][] dp = new int[n][fuel + 1];
 
-        for (int[] a : dp) {
-            Arrays.fill(a, -1);
+        for (int f = 0; f <= fuel; f++) {
+            for (int i = 0; i < n; i++) {
+                if (i == tg)
+                    dp[i][f] = 1;
+
+                for (int idx = 0; idx < n; idx++) {
+                    if (idx == i)
+                        continue;
+
+                    int cost = Math.abs(locations[i] - locations[idx]);
+
+                    if (cost <= f) {
+                        dp[i][f] = (dp[i][f] + dp[idx][f - cost]) % MOD;
+                    }
+                }
+            }
         }
 
-        return helper(start, locations, finish, fuel);
+        return dp[start][fuel];
+
+        // for (int[] a : dp) {
+        //     Arrays.fill(a, -1);
+        // }
+        // return helper(start, locations, finish, fuel);
     }
 
     public int helper(int i, int[] l, int tg, int f) {
