@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1140-stone-game-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1187-make-array-strictly-increasing) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1260-shift-2d-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1260-shift-2d-grid) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0621-task-scheduler) |
 | [1027-longest-arithmetic-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1027-longest-arithmetic-subsequence) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1386-cinema-seat-allocation) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1143-longest-common-subsequence) |
 | [1187-make-array-strictly-increasing](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1187-make-array-strictly-increasing) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
