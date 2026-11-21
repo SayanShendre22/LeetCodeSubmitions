@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-count-all-possible-routes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1575-count-all-possible-routes) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1799-maximize-score-after-n-operations](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1799-maximize-score-after-n-operations) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-count-all-possible-routes](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1575-count-all-possible-routes) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1799-maximize-score-after-n-operations](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1799-maximize-score-after-n-operations) |
 | [1872-stone-game-viii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1872-stone-game-viii) |
 | [2140-solving-questions-with-brainpower](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/2140-solving-questions-with-brainpower) |
