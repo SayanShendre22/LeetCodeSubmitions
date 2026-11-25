@@ -1,5 +1,4 @@
 class Solution {
-
     static final long BASE = 100006;
     static final long MOD = 1_000_000_007L;
 
@@ -16,7 +15,7 @@ class Solution {
                 low = mid + 1;
         }
 
-        return low;
+        return high;
     }
 
     public boolean minLen(int len, int[] nums) {
