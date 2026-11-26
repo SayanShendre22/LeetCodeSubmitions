@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1035-uncrossed-lines) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1125-smallest-sufficient-team](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1140-stone-game-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1187-make-array-strictly-increasing) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1125-smallest-sufficient-team](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1125-smallest-sufficient-team) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1386-cinema-seat-allocation) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1035-uncrossed-lines) |
+| [1125-smallest-sufficient-team](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1143-longest-common-subsequence) |
 | [1187-make-array-strictly-increasing](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1187-make-array-strictly-increasing) |
@@ -830,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [1125-smallest-sufficient-team](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1125-smallest-sufficient-team) |
 | [1799-maximize-score-after-n-operations](https://github.com/SayanShendre22/LeetCodeSubmitions/tree/master/1799-maximize-score-after-n-operations) |
 ## Sqrt Decomposition
 |  |
